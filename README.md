@@ -82,17 +82,6 @@ Feature:
 * Objects detection
 * Face Recognition
 
-### Vietnamese
-Ngày nay, Robot đang trên đà phát triển và tạo nên làn sóng mạnh mẽ trong nhiều lĩnh vực khác nhau của cuộc sống. Ngoài ra, nhân loại cũng đang hiện đại hóa chính cuộc sống của họ. Đối với doanh nghiệp, họ ứng dụng trí tuệ nhân loại hỗ trợ một cách tối ưu nhất trong việc ra quyết định phát triển hướng kinh doanh, ứng dụng Robot để tự hóa quy trình làm việc…. Đối với cuộc sống thường ngày, họ đang số hóa chính căn nhà nhỏ của họ chẳng hạn như việc số hóa các công việc thường ngày trong cuộc, dự báo thời tiết, nhận diện vật thể,... Chính vì thế, chúng tôi đề xuất ứng dụng Robot Yanshee cho cả hai khía cạnh chính của nhân loại. Mục tiêu chính của việc nghiên cứu này là ứng dụng học máy và mô hình ngôn ngữ lớn cùng với việc sử dụng các kỹ thuật lập trình hiện đại chạy trên chính chú robot Yanshee nhỏ mà mọi người có thể cầm theo bất cứ đâu. Thông qua phương pháp Agile, nhóm tác giả đã thực hiện các yêu cầu bằng cách phân tích, thiết kế, lập trình, thử nghiệm cũng như triển khai sản phẩm và theo phương châm “nỗ lực hết mình” với một số tính năng như nhận diện vật thể, lấy thông tin thời tiết, v.v. Ý tưởng nghiên cứu này góp phần hiện đại hóa cho các hộ gia đình cũng như quản trị doanh nghiệp trong việc truy cập và quản lý dữ liệu, giúp giảm thiểu thời gian trong việc ra quyết định và các rủi ro không đáng có nhằm nâng cao mức độ tin cậy cùng với trải nghiệm của người dùng. 
-
-Chức năng:
-* Chatbot trò chuyện Gemini
-* Cập nhật thông tin thời tiết
-* Tìm và tải nhạc
-* Chơi và nhảy theo nhạc
-* Nhận diện khung cảnh và đồ vật
-* Nhận diện khuôn mặt
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
